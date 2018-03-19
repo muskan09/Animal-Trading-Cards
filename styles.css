@@ -1,0 +1,34 @@
+/* add your CSS here*/
+.main_card{
+width:325px;
+border: 2px solid #dcdcdc;
+box-shadow: 3px 3px #dcdcdc;
+margin:20px;
+background-color: #faebd7;
+border-radius: 3px;
+}
+.inner_card{
+  max-width:300px;
+  border: 1px solid #dcdcdc;
+  padding:10px;
+  margin:8px;
+  background-color: #f0ffff;
+}
+li{
+  list-style-type: none;
+}
+img{
+  width:300px;
+  padding: 10px;
+
+}
+h3{
+  padding:10px;
+}
+
+.inner_card span{
+  font-weight: bold;
+}
+#interesting_fact{
+  font-style: italic;
+}
