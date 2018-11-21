@@ -1,4 +1,4 @@
-# Fend Animal Trading Card
+# Animal Trading Card
 
 
 ### Languages Used
